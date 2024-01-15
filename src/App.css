@@ -1,0 +1,38 @@
+.ant-layout{
+    min-width: 1000px;
+}
+
+.ant-layout-header.header{
+    height: 90px; 
+    line-height: 23px;
+    background: linear-gradient(to bottom, #E30230, #D64A2B);
+    position: fixed;
+    width: 100%;
+    z-index: 1031;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);  
+}
+
+#between-head-body{
+    height: 90px; 
+    width: 100%;
+}
+
+#body{ 
+    background-color: #ffffff;
+    width: 100%;
+    text-align: center;
+}
+
+.content{
+    width: 1000px; 
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+.ant-btn-dangerous.ant-btn-primary{
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3) !important;   
+}
+ 
+html body div{
+    z-index: 0 !important;
+}

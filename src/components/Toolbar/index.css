@@ -1,0 +1,66 @@
+#toolbar {
+    width: 100%;
+    margin: 30px auto;
+    display: inline-block;
+    margin-top: 0;
+}
+
+.left-toolbar{
+    color: #EEE9F3;
+    font-size: 38px;
+    width: 200px;
+    margin-left: 90px;
+    display: inline-block;
+}
+
+.right-toolbar{
+    float: right;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+
+.shopping-items{
+    width: 80px;
+    display: inline-block;
+    background: transparent;
+}
+
+.shopping-price{
+    display: inline-block;
+    color: #EEE9F3;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+.shopping-cart{
+    background: transparent;
+}
+
+.shopping-cart svg{
+    height:50px;
+    width:50px;
+    /*color:#D64A2B;*/
+}
+.ant-avatar.ant-avatar-circle.ant-avatar-icon{
+    background: transparent;
+    width: 60px;
+    height: 60px;
+    color: #EEE9F3;
+}
+
+.ant-scroll-number.ant-badge-count{
+    color: #fff;
+    box-shadow: none;
+}
+.finish-btn{
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+.ant-avatar.ant-avatar-circle.ant-avatar-icon:hover{
+    color: #fff;
+}
+.ant-btn.ant-btn-primary.ant-btn-lg.ant-btn-icon-only{
+    background-color: transparent;
+    border: none;
+}
