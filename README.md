@@ -3,7 +3,7 @@ This project is a prototype of an e-commerce platform, simulating its basic func
 
 ## HOW TO START
 ### Requirements
-<img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+[![Node.js](https://img.shields.io/badge/Node.js-brightgreen)](https://nodejs.org/)
 
 ### Installation
 1. Install the dependencies using NodeJs: 
