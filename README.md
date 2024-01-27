@@ -19,4 +19,4 @@ npm run build
 npm start
 ```
 
-#### [See More](https://dayanarochadeveloper.wordpress.com/portfolio).
+#### [See More](https://dayanarochadeveloper.wordpress.com/portfolio/#e-commerce).
